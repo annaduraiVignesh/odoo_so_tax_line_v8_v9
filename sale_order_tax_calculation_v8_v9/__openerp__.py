@@ -7,9 +7,6 @@
     'summary': """
        Subtotal with TAX""",
 
-    'description': """
-        * This module calculates TAX percentage in "amount" for each SO line and display tax amount it in SO Line. V10 also available in app store.
-    """,
     'author': "Vignesh",
     'website': "viki2.odoo.com",
     'category': 'sale',
